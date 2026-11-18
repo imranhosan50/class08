@@ -1,0 +1,55 @@
+@media only screen and (max-width:1200px) {
+    header .main-menu .container ul li a {
+        padding: 0 25px;
+
+    }
+
+}
+
+@media only screen and (max-width:1024px) {
+    header .main-menu .container ul li a {
+        padding: 0 20px;
+        font-size: 14px;
+
+    }
+
+}
+
+@media only screen and (max-width:950px) {
+
+    .home-slider .slider-one .container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .home-slider .slider-one .container .right-side {
+
+        background-color: #ffffff6b;
+        width: 70%;
+        padding: 20px;
+        border-radius: 10px;
+        backdrop-filter: blur(2px);
+        border: 1px solid white;
+    }
+
+    .about-section .container {
+        grid-template-columns: 1fr;
+
+    }
+.services-section {
+	padding: 60px 0 112px;
+}
+footer .Quick-contact {
+	padding: 60px 0;
+}
+header .main-menu .container ul {
+	display: none;
+}
+
+.Mobile-menu{
+    display: block;
+    
+}
+
+}
+

@@ -13,9 +13,14 @@
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1143px;
+  padding: 0 20px;
     margin: 0 auto;
+}
 
+.Mobile-menu{
+    display: none;
+    
 }
 
 header .top-header {
