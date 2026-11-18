@@ -980,3 +980,13 @@ height: 14px;
 
 }
 
+
+.owl-dots .owl-dot span{
+    border: 2px solid #173a69;
+    height: 15px !important;
+    background-color: transparent !important;
+    width: 15px !important;
+}
+.owl-dots .active span{
+background-color:#173a69 !important;
+}
